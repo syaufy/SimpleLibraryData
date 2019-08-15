@@ -1,0 +1,20 @@
+.container  {
+    background-color: bisque;
+    font-size: 20px;
+} 
+
+.button {
+    text-align: center;
+}
+
+.tablehead  {
+    margin-top: 20px;
+    width: 85%;
+    text-align: center;
+    align-content: center;
+    background-color: bisque;
+}
+
+table .header  {
+    font-weight: bold;
+}
